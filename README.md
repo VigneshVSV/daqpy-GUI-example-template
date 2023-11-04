@@ -8,4 +8,4 @@ After cloning, installing dependencies with
 
 `npm install .` or `npm install . --force`
 
-and set your remote origin to your private repository.
+and set your remote origin to your private repository. 
