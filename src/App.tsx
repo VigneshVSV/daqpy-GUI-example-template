@@ -21,7 +21,7 @@ function App() {
     return (
         <Box sx={{ display : 'flex', justifyContent : 'center', flexGrow : 1 }}>
             <Typography>
-                Use this project as template for <Code>daqpy</Code> based GUI examples at <Link>will be filled</Link>. <br />
+                Use this project as template for <Code>hololinked</Code> based GUI examples at <Link>will be filled</Link>. <br />
                 Install dependencies using <Code>npm install .</Code> or <Code>npm install . --force </Code>
             </Typography>
         </Box>

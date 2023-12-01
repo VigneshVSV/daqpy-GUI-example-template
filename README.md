@@ -1,8 +1,8 @@
-# DAQPY GUI EXAMPLES TEMPLATE   
+# hololinked GUI EXAMPLES TEMPLATE   
 
-clone from this repository to follow examples from `daqpy` documentation : 
+clone from this repository to follow examples from `hololinked` documentation : 
 
-`git clone https://github.com/VigneshVSV/daqpy-gui-examples-template.git`
+`git clone https://github.com/VigneshVSV/hololinked-gui-examples-template.git`
 
 After cloning, installing dependencies with 
 
